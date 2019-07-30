@@ -1,2 +1,4 @@
 # HAnimeScraper
-.NET Library to Scrape content from https://hanime.tv (HANIME > HH)
+THIS WILL PROBABLY INCLUDED INTO THE HentaiHavenContentDownloader.
+
+Thought: adding Modules to the Application to include more websites to scrape from.
